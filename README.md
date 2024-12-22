@@ -7,7 +7,7 @@ Este é o primeiro projeto em Java que criei. Ele verifica se um número é par 
 ### Requisitos
 
 - Java JDK 8 ou superior
-- IDE de sua preferência (Eclipse, IntelliJ, etc.)
+- IDE de sua preferência (Eclipse, IntelliJ, etc)
 
 ### Passos para Instalação
 
